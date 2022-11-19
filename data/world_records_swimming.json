@@ -1,0 +1,40 @@
+{
+  "Men": {
+    "50m Freestyle": "20.91",
+    "100m Freestyle": "46.91",
+    "200m Freestyle": "1:42.00",
+    "400m Freestyle": "3:40.07",
+    "800m Freestyle": "7:32.12",
+    "1500m Freestyle": "14:31.02",
+    "50m Backstroke": "24.00",
+    "100m Backstroke": "51.85",
+    "200m Backstroke": "1:51.92",
+    "50m Breaststroke": "25.95",
+    "100m Breaststroke": "57.00",
+    "200m Breaststroke": "2:06.67",
+    "50m Butterfly": "22.27",
+    "100m Butterfly": "49.82",
+    "200m Butterfly": "1:51.51",
+    "200m Individual Medley": "1:54.00",
+    "400m Individual Medley": "4:03.84"
+  },
+  "Women": {
+    "50m Freestyle": "23.67",
+    "100m Freestyle": "51.71",
+    "200m Freestyle": "1:52.98",
+    "400m Freestyle": "3:56.46",
+    "800m Freestyle": "8:04.79",
+    "1500m Freestyle": "15:20.48",
+    "50m Backstroke": "26.98",
+    "100m Backstroke": "58.00",
+    "200m Backstroke": "2:04.06",
+    "50m Breaststroke": "29.4",
+    "100m Breaststroke": "1:04.13",
+    "200m Breaststroke": "2:19.11",
+    "50m Butterfly": "24.43",
+    "100m Butterfly": "55.48",
+    "200m Butterfly": "2:01.81",
+    "200m Individual Medley": "2:06.12",
+    "400m Individual Medley": "4:26.36"
+  }
+}
